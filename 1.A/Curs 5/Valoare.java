@@ -1,0 +1,3 @@
+public enum Valoare{
+    AS, DOI, TREI, PATRU, CINCI, SASE, SAPTE, OPT, NOUA, ZECE, JUVETE, DAMA, REGE
+}

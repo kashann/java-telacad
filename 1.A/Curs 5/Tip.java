@@ -1,0 +1,3 @@
+public enum Tip{
+    INIMAROSIE, INIMANEAGRA, TREFLA, ROMB
+}
